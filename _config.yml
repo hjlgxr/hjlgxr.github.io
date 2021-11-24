@@ -101,7 +101,8 @@ theme: landscape
 
 # Deployment
 ## Docs: https://hexo.io/docs/one-command-deployment
+
 deploy:
   type: git
-  repository: https://github.com/GHigher12/GHigher12.github.io.git
+  repository: https://github.com/hjlgxr/hjlgxr.github.io.git
   branch: main
